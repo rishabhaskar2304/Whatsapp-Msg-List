@@ -1,7 +1,7 @@
 # Whatsapp-Msg-List
-####This script copies your messages iteratively in a list and then  paste the final text in your text field.
+##This script copies your messages iteratively in a list and then  paste the final text in your text field.
 
-####Each message string starts on a newline.
+###Each message string starts on a newline.
 > 1. Open [Whatsapp](https://web.whatsapp.com/) and open the thread from where you want to copy messages.
 > 2. Press Ctrl+Shift+J and paste the script in it(Thats it don't press enter).
 > 3. Now right click on the text message from where you want to start and click the last option **Inspect**.
@@ -23,11 +23,11 @@
 
 ![Alt text](https://github.com/rishabhaskar2304/Whatsapp-Msg-List/raw/master/Assets/pic3.png?raw=true)
 
-7. Enter the no. of messages you want to be listed and click ok.
+> 7. Enter the no. of messages you want to be listed and click ok.
 
 ![Alt text](https://github.com/rishabhaskar2304/Whatsapp-Msg-List/raw/master/Assets/pic4.png?raw=true)
 
 
-Voila :
+> Voila :
 ![Alt text](https://github.com/rishabhaskar2304/Whatsapp-Msg-List/raw/master/Assets/pic5.png?raw=true)
 
