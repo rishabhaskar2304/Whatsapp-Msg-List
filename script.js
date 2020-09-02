@@ -1,7 +1,7 @@
 let s = "";
 let nl = "\r\n";
 let pathr = ") > div > div > div > div.copyable-text > div:nth-last-child(1) > span.selectable-text.invisible-space.copyable-text > span";
-let inp = prompt("Paste the JS path :");
+let inp = prompt("Paste the selector path :");
 let x = inp.indexOf("(");
 let y = inp.indexOf(")");
 let init = inp.slice(x+1,y);
