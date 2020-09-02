@@ -7,8 +7,6 @@ let y = inp.indexOf(")");
 let init = inp.slice(x+1,y);
 let pathl = inp.slice(0,x+1);
 let int = parseInt(init);
-// l = no. of elements you want to fetch
-// m will be the no. of intial element
 let l=prompt("How many messages do you want to copy?");
  for(i=0;i<l;i++) {
     let m = int+i;
